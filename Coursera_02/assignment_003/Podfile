@@ -1,0 +1,3 @@
+target 'Assignment003' do
+pod 'CurrencyRequest' , '~> 0.1'
+end
